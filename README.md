@@ -1,5 +1,5 @@
 # Confusion Restaurant 
-This website for users to search and obtain information about movies andrelated actors.
+This website for users to search and obtain information about movies and related actors.
 It was created by React, Bootstrap4 and Movie database API.
 ## Getting Started
 Run ```yarn install```, and start the app :
